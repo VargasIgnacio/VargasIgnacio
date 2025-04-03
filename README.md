@@ -38,7 +38,7 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VargasIgnacio&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=VargasIgnacio&theme=synthwave&hide_border=true)
+
 
 
 
