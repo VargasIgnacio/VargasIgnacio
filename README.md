@@ -9,12 +9,17 @@
 <img align="right" width="320" src="https://c.tenor.com/GIYnmPBTFsUAAAAC/tenor.gif">
 
 - 🎓 Bachelor's Degree in Programming student at the National Technological University (UTN).<br>
+
 - 💻 Passionate about building software, solving problems, and evolving. 
+
 - 📚 Currently learning:
   - React.js 
   - Tailwind CSS<br>
+
 - 🌍 My goal is to become a great Web Developer and Data Analyst.<br>
+
 - 📩 Contact me: nacho.vargas0208@gmail.com 
+
 
 
 ---
