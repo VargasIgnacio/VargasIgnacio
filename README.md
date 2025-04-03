@@ -4,10 +4,8 @@
 <!--  -->
 <img align="right" width="320" src="https://c.tenor.com/GIYnmPBTFsUAAAAC/tenor.gif">
 
-<div align="left">
-  <img src="https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif" width="40" height="40">
-  <span style="font-size: 1.5em; font-weight: 600;">About Me</span>
-</div>
+### <img  src="https://media.tenor.com/x10tu93AnNQAAAAj/clippy.gif" width="40px">&nbsp;**About me**
+
 
 - 🎓 Bachelor's Degree in Programming student at the National Technological University (UTN).<br>
 - 💻 Passionate about software development, technology, and continuous learning.<br>
