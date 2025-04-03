@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 
-#🚀 About Me<br>🎓 Bachelor's Degree in Programming student at the National Technological University (UTN).<br>💻 Passionate about software development, technology, and continuous learning.<br>📚 Currently learning React.js, Tailwind CSS, HTML, and JavaScript.<br>🌍 My goal is to become a great Web Developer and Data Analyst.<br><br>📩 Contact me: nacho.vargas0208@gmail.com
+# 🚀 About Me<br>🎓 Bachelor's Degree in Programming student at the National Technological University (UTN).<br>💻 Passionate about software development, technology, and continuous learning.<br>📚 Currently learning React.js, Tailwind CSS, HTML, and JavaScript.<br>🌍 My goal is to become a great Web Developer and Data Analyst.<br><br>📩 Contact me: nacho.vargas0208@gmail.com
 
 
 # 💻 Tech Stack:
