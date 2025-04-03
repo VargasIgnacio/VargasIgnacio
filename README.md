@@ -1,11 +1,11 @@
 <h1 align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VldHRkeHpjNjlsd3UycHI5eDVycjRwanFraDExYnIwYXdjbHZtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X9wv7f7g2L2AQhXCAa/giphy.gif" width="340" style="filter: brightness(0.9);"> 
 </h1>
+<!--  -->
+<img align="right" width="320" src="https://c.tenor.com/GIYnmPBTFsUAAAAC/tenor.gif">
 
- <img align="right" width='320' src="https://c.tenor.com/GIYnmPBTFsUAAAAC/tenor.gif">
-
-🧑‍💻 About Me: 
-
+| <img src="https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif" width="40px"> | <h1>About Me</h1> |
+|--------------------------------------------------------------------------------------|-------------------|
 
 - 🎓 Bachelor's Degree in Programming student at the National Technological University (UTN).<br>
 - 💻 Passionate about software development, technology, and continuous learning.<br>
@@ -13,7 +13,7 @@
   - React.js
   - Tailwind CSS<br>
 - 🌍 My goal is to become a great Web Developer and Data Analyst.<br>
-- 📩 Contact me: nacho.vargas0208@gmail.com
+- 📩 Contact me: nacho.vargas0208@gmail.com 
 
 
 ---
