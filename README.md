@@ -1,6 +1,5 @@
 <h1 align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VldHRkeHpjNjlsd3UycHI5eDVycjRwanFraDExYnIwYXdjbHZtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X9wv7f7g2L2AQhXCAa/giphy.gif" width="400" style="filter: brightness(0.9);"> 
-  Ignacio Vargas
 </h1>
 
 # 💫 About Me:
