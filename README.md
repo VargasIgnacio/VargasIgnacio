@@ -1,5 +1,5 @@
 <h1 align="center">
-  <div class="tenor-gif-embed" data-postid="1378121840400141809" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/hello-world-animation-hello-coding-gif-1378121840400141809">Hello World Animation GIF</a>from <a href="https://tenor.com/search/hello+world-gifs">Hello World GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VldHRkeHpjNjlsd3UycHI5eDVycjRwanFraDExYnIwYXdjbHZtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X9wv7f7g2L2AQhXCAa/giphy.gif" width="25" style="filter: brightness(0.9);"> 
   Hi There! 
 </h1>
 
