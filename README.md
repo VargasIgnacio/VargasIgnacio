@@ -9,7 +9,7 @@
 <img align="right" width="320" src="https://c.tenor.com/GIYnmPBTFsUAAAAC/tenor.gif">
 
 - 🎓 Bachelor's Degree in Programming student at the National Technological University (UTN).<br>
-- 💻 Passionate about software development, technology, and continuous learning.<br>
+- 💻 Passionate about building software, solving problems, and evolving.<br>
 - 📚 Currently learning:
   - React.js 
   - Tailwind CSS<br>
