@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" style="filter: brightness(0.9);"
+  Hi There! 
+</h1>
 
 # 💫 About Me:
 🚀 About Me<br>🎓 Bachelor's Degree in Programming student at the National Technological University (UTN).<br>💻 Passionate about software development, technology, and continuous learning.<br>📚 Currently learning React.js, Tailwind CSS, HTML, and JavaScript.<br>🌍 My goal is to become a great Web Developer and Data Analyst.<br><br>📩 Contact me: nacho.vargas0208@gmail.com
