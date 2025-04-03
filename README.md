@@ -2,9 +2,9 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VldHRkeHpjNjlsd3UycHI5eDVycjRwanFraDExYnIwYXdjbHZtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X9wv7f7g2L2AQhXCAa/giphy.gif" width="400" style="filter: brightness(0.9);"> 
 </h1>
 
-## 💫 About Me:
+# 💫 About Me:
 
-# 🚀 About Me<br>🎓 Bachelor's Degree in Programming student at the National Technological University (UTN).<br>💻 Passionate about software development, technology, and continuous learning.<br>📚 Currently learning React.js, Tailwind CSS, HTML, and JavaScript.<br>🌍 My goal is to become a great Web Developer and Data Analyst.<br><br>📩 Contact me: nacho.vargas0208@gmail.com
+🚀 About Me<br>🎓 Bachelor's Degree in Programming student at the National Technological University (UTN).<br>💻 Passionate about software development, technology, and continuous learning.<br>📚 Currently learning React.js, Tailwind CSS, HTML, and JavaScript.<br>🌍 My goal is to become a great Web Developer and Data Analyst.<br><br>📩 Contact me: nacho.vargas0208@gmail.com
 
 
 # 💻 Tech Stack:
